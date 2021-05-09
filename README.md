@@ -11,6 +11,7 @@ A **Git hook** which spots PlantUML source files and generates diagrams in a str
 ## Future additions
 
 * [x] Generate diagrams only for files which have changed
+* [ ] git add for generated files only, not whole folder
 * [ ] Installation of hooks using [GitHooks][githooks]
 * [ ] Inline diagrams in Markdown
 * [ ] Ad-hoc runs
